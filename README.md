@@ -1,6 +1,6 @@
-# playdo
+# PolyNation Website
 
-> Playdo - Online Gaming HTML Template
+> PolyNation Website Template for Last Oasis Dedicated Server
 
 ## Build Setup
 
