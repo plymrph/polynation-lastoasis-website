@@ -11,15 +11,15 @@
               <div class="slide-all-text">
                 <!-- layer 1 -->
                 <div class="layer-1 wow fadeInUp" data-wow-delay="0.3s">
-                  <h2 class="title2">Playing online games<span class="color"> Win Reward </span></h2>
+                  <h2 class="title2">A dedicated server that's all about the<span class="color"> Community </span></h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-2 wow fadeInUp" data-wow-delay="0.5s">
-                  <p>We develop effective plans to move your customers behaviour. customer can be alwayes his profit.</p>
+                  <p>We created this server to focus on the quality of life of the Nomads that roam this server.</p>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
-                  <a href="#" class="ready-btn" >Get Started</a>
+                  <a href="#" class="ready-btn" >Read the reviews</a>
                 </div>
               </div>
             </div>

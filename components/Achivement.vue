@@ -10,8 +10,8 @@
                 <img src="/img/about/achive1.png" alt="">
               </div>
               <div class="achivement-text">
-                <span class="achive-number">1200+</span>
-                <h6>Live online</h6>
+                <span class="achive-number">6</span>
+                <h6>Lifetime Members</h6>
               </div>
             </div>
           </div>
@@ -22,8 +22,8 @@
                 <img src="/img/about/achive2.png" alt="">
               </div>
               <div class="achivement-text">
-                <span class="achive-number">29038+</span>
-                <h6>Active Member</h6>
+                <span class="achive-number">5</span>
+                <h6>Active Tiles</h6>
               </div>
             </div>
           </div>
@@ -34,8 +34,8 @@
                 <img src="/img/about/achive3.png" alt="">
               </div>
               <div class="achivement-text">
-                <span class="achive-number">2000K+</span>
-                <h6>Daily Reward</h6>
+                <span class="achive-number">300+</span>
+                <h6>Hours Uptime</h6>
               </div>
             </div>
           </div>

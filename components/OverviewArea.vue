@@ -11,14 +11,14 @@
         </div>
         <div class="col-md-6 col-sm-6 col-xs-12">
           <div class="overview-text">
-            <h3>Playing games winning instant award and Bonus </h3>
-            <p>Replacing a  maintains the amount of lines. When replacing a selection. help agencies to define their new business objectives and then create</p>
+            <h3>Submit clips and be featured on our Social Media!</h3>
+            <p>To help promote this server, we're opening up submissions for clips and other content type to feature on our social media.</p>
             <ul>
-              <li><a href="#">Innovation idea latest business tecnology</a></li>
-              <li><a href="#">Digital content marketing online clients plateform</a></li>
-              <li><a href="#">Safe secure services for you online email account</a></li>
+              <li><a href="#">Accepting videos, artwork or screenshots.</a></li>
+              <li><a href="#">Must be Last Oasis related preferrably shot within the PolyNation realm.</a></li>
+              <li><a href="#">Winners will earn PolyPoints and votes will be coming from the community.</a></li>
             </ul>
-            <a class="overview-btn" href="#">Signup today</a>
+            <a class="overview-btn" href="#">Submit your work</a>
           </div>
         </div>
       </div>

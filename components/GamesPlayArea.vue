@@ -4,8 +4,8 @@
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="section-headline text-center">
-            <h3>Games play</h3>
-            <p>Dummy text is also used to demonstrate the appearance of different typefaces and layouts</p>
+            <h3>Legends Leaderboard</h3>
+            <p>Clans can earn legacy points by participating in events or recruiting new players. Climb the Leaderboard and prove your worth!</p>
           </div>
         </div>
       </div>

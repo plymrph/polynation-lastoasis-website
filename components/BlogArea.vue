@@ -4,8 +4,8 @@
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="section-headline text-center">
-            <h3>Games world news</h3>
-            <p>Dummy text is also used to demonstrate the appearance of different typefaces and layouts</p>
+            <h3>PolyNation Latest Updates</h3>
+            <p>A lot of going on in the realm lately</p>
           </div>
         </div>
       </div>

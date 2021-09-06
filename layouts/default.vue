@@ -10,7 +10,7 @@
     },
     head(){
       return {
-        title: "Playdo - Online Gaming HTML Template"
+        title: "PolyNation - Last Oasis Community Server"
       }
     },
     mounted(){

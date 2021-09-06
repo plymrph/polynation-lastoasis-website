@@ -4,8 +4,8 @@
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="section-headline text-center">
-            <h3>Online games</h3>
-            <p>Dummy text is also used to demonstrate the appearance of different typefaces and layouts</p>
+            <h3>Community Clans</h3>
+            <p>Clans fight for glory and some just to have fun. Join or create your own!</p>
           </div>
         </div>
       </div>
@@ -18,7 +18,7 @@
           <!-- single-games end-->
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="single-games">
-              <h4>Wins goal</h4>
+              <h4>Clan1</h4>
               <div class="games-img">
                 <img src="/img/games/g1.png" alt="">
               </div>
@@ -31,7 +31,7 @@
             <swiper-slide>
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="single-games">
-              <h4>Best Reward</h4>
+              <h4>Clan2</h4>
               <div class="games-img">
                 <img src="/img/games/g2.png" alt="">
               </div>
@@ -44,7 +44,7 @@
             <swiper-slide>
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="single-games">
-              <h4>Win Award</h4>
+              <h4>Clan3</h4>
               <div class="games-img">
                 <img src="/img/games/g3.png" alt="">
               </div>
@@ -57,7 +57,7 @@
             <swiper-slide>
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="single-games">
-              <h4>best win</h4>
+              <h4>Clan4</h4>
               <div class="games-img">
                 <img src="/img/games/g4.png" alt="">
               </div>
@@ -69,7 +69,7 @@
             <swiper-slide>
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="single-games">
-              <h4>Pirates of sea</h4>
+              <h4>Clan5</h4>
               <div class="games-img">
                 <img src="/img/games/g5.png" alt="">
               </div>

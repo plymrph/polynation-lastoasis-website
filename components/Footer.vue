@@ -4,14 +4,14 @@
     <div class="footer-area">
       <div class="container">
         <div class="row">
-          <div class="col-md-4 col-sm-6 col-xs-12">
+          <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="footer-content logo-footer">
               <div class="footer-head">
                 <div class="footer-logo">
                   <a class="footer-black-logo" href="#"><img src="/img/logo/logo2.png" alt=""></a>
                 </div>
                 <p>
-                  Replacing a  maintains the amount of lines. When replacing a selection. help agencies to define their new business objectives and then create. Replacing a  maintains the amount of lines.
+                  Get latest news and offers from the PolyNation newsletter.
                 </p>
                 <div class="subs-feilds">
                   <div class="suscribe-input">
@@ -23,7 +23,7 @@
             </div>
           </div>
           <!-- end single footer -->
-          <div class="col-md-2 col-sm-3 col-xs-12">
+          <!--div class="col-md-2 col-sm-3 col-xs-12">
             <div class="footer-content">
               <div class="footer-head">
                 <h4>Games list</h4>
@@ -37,9 +37,9 @@
                 </ul>
               </div>
             </div>
-          </div>
+          </div-->
           <!-- end single footer -->
-          <div class="col-md-2 col-sm-3 col-xs-12">
+          <!--div class="col-md-2 col-sm-3 col-xs-12">
             <div class="footer-content">
               <div class="footer-head">
                 <h4>Company</h4>
@@ -53,9 +53,9 @@
                 </ul>
               </div>
             </div>
-          </div>
+          </div-->
           <!-- end single footer -->
-          <div class="col-md-2 hidden-sm col-xs-12">
+          <!--div class="col-md-2 hidden-sm col-xs-12">
             <div class="footer-content">
               <div class="footer-head">
                 <h4>Account</h4>
@@ -69,9 +69,9 @@
                 </ul>
               </div>
             </div>
-          </div>
+          </div-->
           <!-- end single footer -->
-          <div class="col-md-2 hidden-sm col-xs-12">
+          <!--div class="col-md-2 hidden-sm col-xs-12">
             <div class="footer-content last-content">
               <div class="footer-head">
                 <h4>Support</h4>
@@ -85,7 +85,7 @@
                 </ul>
               </div>
             </div>
-          </div>
+          </div-->
         </div>
       </div>
     </div>
@@ -97,7 +97,7 @@
             <div class="copyright">
               <p>
                 Copyright © 2020
-                <a href="#">playdo</a> All Rights Reserved
+                <a href="#">PolyNation</a> All Rights Reserved
               </p>
             </div>
           </div>

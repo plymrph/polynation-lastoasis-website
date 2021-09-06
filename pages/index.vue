@@ -5,12 +5,10 @@
     <Achivement />
     <AboutArea />
     <GamesArea />
-    <GamesPlayArea />
     <PaymentHistory />
     <WorkProcess />
     <OverviewArea />
     <BlogArea />
-    <ClientsArea />
     <Footer />
   </div>
 </template>
