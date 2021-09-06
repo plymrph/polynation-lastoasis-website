@@ -1,0 +1,19 @@
+{
+  "name": "playdo",
+  "version": "1.0.0",
+  "description": "Playdo - Online Gaming HTML Template",
+  "author": "Rocks_theme",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "swiper": "5.x",
+    "vue-awesome-swiper": "^4.1.1"
+  },
+  "devDependencies": {}
+}
