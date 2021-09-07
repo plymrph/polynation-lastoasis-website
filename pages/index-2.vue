@@ -2,7 +2,7 @@
   <div>
     <NavOne />
     <BannerTwo />
-    <Achivement />
+    <MilestoneTiles />
     <AboutAreaTwo />
     <GamesAreaTwo />
     <ChipsArea />
@@ -18,7 +18,7 @@
   import NavOne from "../components/NavOne";
   import Footer from "../components/Footer";
   import BannerTwo from "../components/BannerTwo";
-  import Achivement from "../components/Achivement";
+  import MilestoneTiles from "../components/MilestoneTiles";
   import AboutAreaTwo from "../components/AboutAreaTwo";
   import GamesAreaTwo from "../components/GamesAreaTwo";
   import ChipsArea from "../components/ChipsArea";
@@ -40,7 +40,7 @@
       ChipsArea,
       GamesAreaTwo,
       AboutAreaTwo,
-      Achivement,
+      MilestoneTiles,
       BannerTwo,
       Footer,
       NavOne

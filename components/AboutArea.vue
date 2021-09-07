@@ -16,7 +16,7 @@
             <div class="support-services">
               <img class="support-images" src="/img/about/ab-icon.png" alt="">
               <div class="support-content">
-                <h4>100% Free to join</h4>
+                <h4>100% Free to join Crossplay</h4>
                 <p>This server does not require any subscription or donation to join and access its services.</p>
               </div>
             </div>

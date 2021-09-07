@@ -18,7 +18,7 @@
                   <div class="proses-content">
                     <div class="proses-icon point-blue">
                       <span class="point-view">1</span>
-                      <a href="#"><i class="ti-briefcase"></i></a>
+                      <a href="#"><i class="ti-pencil"></i></a>
                     </div>
                     <div class="proses-text">
                       <h4>Step 1</h4>
@@ -33,7 +33,7 @@
                   <div class="proses-content">
                     <div class="proses-icon point-orange">
                       <span class="point-view">2</span>
-                      <a href="#"><i class="ti-layers"></i></a>
+                      <a href="#"><i class="ti-share"></i></a>
                     </div>
                     <div class="proses-text">
                       <h4>Step 2</h4>
@@ -47,8 +47,8 @@
                 <div class="single-proses last-item">
                   <div class="proses-content">
                     <div class="proses-icon point-green">
-                      <span class="point-view">03</span>
-                      <a href="#"><i class="ti-bar-chart-alt"></i></a>
+                      <span class="point-view">3</span>
+                      <a href="#"><i class="ti-star"></i></a>
                     </div>
                     <div class="proses-text">
                       <h4>Step 3</h4>

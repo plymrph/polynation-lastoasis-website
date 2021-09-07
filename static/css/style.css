@@ -160,24 +160,24 @@ body {
     line-height: 48px;
     right: 30px;
     width: 44px;
-    background-color: #26253f;
+    background-color: #955000;
     color: #fff;
     text-align: center;
     height: 44px;
     border-radius: 3px;
-    border:1px solid #26253f;
+    border:1px solid #955000;
     transition-duration: 500ms;
 }
 #scrollUp:hover {
-    border:1px solid #d5057f;
-    background-color: #d5057f;
+    border:1px solid #955000;
+    background-color: #955000;
     transition-duration: 500ms;
 }
 .clear{
 	clear:both;
 }
 .color{
-    color: #d5057f;
+    color: #f75000;
 }
 ul{
 	list-style: outside none none;
@@ -213,10 +213,10 @@ div#preloader {
     text-shadow: none;
 }
 .bg-color{
-    background:#171627;
+    background:#332719;
 }
 .bg-color-2{
-    background:#131222;
+    background:#a57e51;
 }
 .browserupgrade {
     margin: 0.2em 0;
@@ -274,10 +274,10 @@ div#preloader {
     display: inline-block;
 }
 .topbar-area {
-    background:#171627;
+    background:#ffc400;
 }
 .topbar-left ul li a {
-    color: #c4d5f6;
+    color: #000000;
     display: block;
     margin-right: 20px;
     padding: 11px 0;
@@ -286,7 +286,7 @@ div#preloader {
     letter-spacing: 0.60px;
 }
 .topbar-left ul li a i {
-    color: #c4d5f6;
+    color: #000000;
     font-size: 16px;
     padding-right: 7px;
 }
@@ -360,7 +360,7 @@ div#preloader {
     z-index: 999;
 }
 .header-area{
-	background:#1E1D32;
+	background:#955000;
 }
 .logo {
     display: block;
@@ -495,8 +495,8 @@ div#preloader {
 }
 .s-menu {
     padding: 10px 20px;
-    border: 1px solid #d5057f;
-    background: #d5057f;
+    border: 1px solid #f75000;
+    background: #f75000;
     color: #fff;
     transition: 0.4s;
     font-size: 15px;
@@ -505,9 +505,9 @@ div#preloader {
     text-transform: uppercase;
 }
 .s-menu:hover {
-    border: 1px solid #d5057f;
+    border: 1px solid #f75000;
     background: transparent;
-	color:#d5057f;
+	color:#f75000;
     transition: 0.4s;
 }
 .header-area.stick  .header-right-link {
@@ -522,7 +522,7 @@ div#preloader {
     top: 0;
     width: 100%;
     z-index: 999999;
-    background: #1E1D32;
+    background: #955000;
 }
 .header-area.stick .logo a {
     display: inline-block;
@@ -595,7 +595,7 @@ div#preloader {
 /*----------------------------------------*/
 .intro-area{
 	position: relative;
-    background: #171627;
+    background: #955000;
 }
 .display-table{
 	width: 100%;
@@ -639,8 +639,8 @@ div#preloader {
     font-size: 18px;
 }
 .ready-btn {
-    border: 1px solid #d5057f;
-    background: #d5057f;
+    border: 1px solid #f75000;
+    background: #f75000;
     color: #fff;
     cursor: pointer;
     display: inline-block;
@@ -654,7 +654,7 @@ div#preloader {
     border-radius: 2px;
 }
 .ready-btn:hover{
-    color: #d5057f;
+    color: #f75000;
     background: transparent;
     transition: all 0.4s ease 0s;
 }
@@ -662,13 +662,13 @@ div#preloader {
   4. Achivement Area Css
 ----------------------------------------*/
 .single-achive {
-    border: 1px solid #26253f;
+    border: 1px solid #5c4836;
     position: relative;
     display: flex;
     overflow: hidden;
     padding: 30px 20px;
     align-items: center;
-    background: #26253f;
+    background: #5a3420;
     border-radius: 3px;
     margin-bottom: 30px;
 }
@@ -737,7 +737,7 @@ div#preloader {
 }
 .support-services {
     padding: 30px 20px 20px 30px;
-    background: #26253f;
+    background:  #5a3420;
     margin-bottom: 30px;
     border-radius: 3px;
 }
@@ -771,11 +771,11 @@ div#preloader {
     margin-bottom: 20px;
 }
 .single-games {
-    border: 1px solid #26253f;
+    border: 1px solid #5a3420;
     position: relative;
     text-align: center;
     padding: 30px 30px;
-    background: #26253f;
+    background: #5a3420;
 }
 .single-games h4 {
     color: #fff;
@@ -789,8 +789,8 @@ div#preloader {
     margin: 20px auto;
 }
 .games-btn {
-    border: 1px solid #d5057f;
-    background: #d5057f;
+    border: 1px solid #f75000;
+    background: #f75000;
     color: #fff;
     cursor: pointer;
     display: inline-block;
@@ -804,9 +804,9 @@ div#preloader {
     border-radius: 2px;
 }
 .games-btn:hover{
-    border: 1px solid #d5057f;
+    border: 1px solid #f75000;
     background: transparent;
-    color: #d5057f;
+    color: #f75000;
     transition: all 0.4s ease 0s;
 }
 .games-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev, 
@@ -1021,12 +1021,12 @@ div#preloader {
     height: 80px;
 }
 .deposite-content tr:nth-child(even) {
-  background-color: #171627;
+  background-color: #5a3420;
 }
 .diposite-box {
     width: 100%;
     margin: 0 auto;
-    background: #26253f;
+    background: #a57e51;
     position: relative;
 }
 .diposite-box h4 {
@@ -1067,7 +1067,7 @@ div#preloader {
     display: inline-block;
     border-radius: 50%;
     margin-bottom: 30px;
-    background:#26253f; 
+    background:#5a3420; 
 }
 .proses-icon {
     position: relative;
@@ -1155,12 +1155,12 @@ div#preloader {
     border-radius: 50px;
     font-size: 12px;
     color: #fff;
-    background: #d5057f;
+    background: #f75000;
 }
 .overview-btn {
     padding: 10px 20px;
-    border: 1px solid #d5057f;
-    background: #d5057f;
+    border: 1px solid #f75000;
+    background: #f75000;
     color: #fff;
     transition: 0.4s;
     font-size: 16px;
@@ -1171,9 +1171,9 @@ div#preloader {
     text-transform: capitalize;
 }
 .overview-btn:hover{
-    border: 1px solid #d5057f;
+    border: 1px solid #f75000;
     background:transparent;
-    color: #d5057f;
+    color: #f75000;
     transition: 0.4s;
 }
 /*----------------------------------------*/
@@ -1185,7 +1185,7 @@ div#preloader {
     z-index: 1;
     transition: 0.5s;
     overflow: hidden;
-    background: #26253f;
+    background: #5a3420;
 }
 .blog-content a h4 {
     font-size: 21px;
@@ -1212,7 +1212,7 @@ div#preloader {
      transition: 0.4s;
 }
 .blog-content a h4:hover{
-    color:#d5057f;
+    color:#f75000;
     transition: 0.4s;
 }
 .blog-meta span {
@@ -1225,7 +1225,7 @@ div#preloader {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    border: 2px solid #d5057f;
+    border: 2px solid #f75000;
     margin-right: 10px;
 }
 .single-blog {
@@ -1279,7 +1279,7 @@ div#preloader {
 /*  13. Footer Area
 /*----------------------------------------*/
 .footer-1 {
-    background:#12111e;
+    background:#a57e51;
 }
 .footer-area{
     padding: 290px 0px 90px;
@@ -1314,7 +1314,7 @@ div#preloader {
     border-right:none;
 }
 .suscribe-input button {
-    background: #d5057f;
+    background: #f75000;
     border: none;
     color: #fff;
     font-size: 15px;
@@ -1322,21 +1322,21 @@ div#preloader {
     width: 36%;
     font-weight: 600;
     height: 46px;
-    border: 1px solid #d5057f;
+    border: 1px solid #f75000;
     transition: 0.4s;
 }
 .suscribe-input button:hover {
-    color: #d5057f;
+    color: #f75000;
     background:transparent;
     transition: 0.4s;
 }
 .footer-tags li a:hover{
-    color:#d5057f;
+    color:#f75000;
 }
 .footer-icons ul li a:hover{
     color:#fff;
-    background:#d5057f; 
-    border: 1px solid #d5057f;
+    background:#f75000; 
+    border: 1px solid #f75000;
     transition: 0.4s;
 }
 .footer-tags {
@@ -1380,34 +1380,34 @@ div#preloader {
 }
 .footer-list li a:hover,
 .footer-list li a:hover::after{
-    color: #d5057f;
+    color: #f75000;
 }
 .footer-list li a:hover::after{
-    color: #d5057f;
+    color: #f75000;
 }
 .footer-area-bottom {
     padding: 25px 0;
-    background:#1E1D32;
+    background:#955000;
 }
 .copyright-text a:hover{
 	text-decoration: underline;
-	color:#d5057f;
+	color:#f75000;
 }
 .copyright-text a {
-    color: #d5057f;
+    color: #f75000;
 }
 .copyright > p {
     margin-bottom: 0;
     color: #c4d5f6;
 }
 .copyright a {
-    color: #d5057f;
+    color: #f75000;
 }
 /*--------------------------------*/
 /*  14. Home 02 Css
 /*--------------------------------*/
 .intro-area-2{
-    background: url(/img/background/slide1.jpg);
+    background-color: #472101;
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1425,7 +1425,7 @@ div#preloader {
     background: rgba(30,29,50,0.90);
 }
 .intro-area-2 .bg-wrapper img {
-    opacity: 0.9;
+    opacity: 0.45;
 }
 .games-area-2 .single-games{
     margin-bottom: 30px;
@@ -2042,13 +2042,13 @@ span.email-notes{
 	background: transparent;
 }
 .comments-content-wrap span a {
-    color: #d5057f;
+    color: #f75000;
 }
 .comments-content-wrap span a:hover {
-    color: #d5057f;
+    color: #f75000;
 }
 .comment-respond .add-btn.contact-btn {
-    background: #d5057f;
+    background: #f75000;
     color: #fff;
     display: block;
     font-size: 16px;
@@ -2058,15 +2058,15 @@ span.email-notes{
     border-radius: 2px;
     width: auto !important;
     margin-top: 20px;
-    border: 1px solid #d5057f;
+    border: 1px solid #f75000;
     text-transform: capitalize;
     font-weight: 700;
     transition: 0.4s;
 }
 .comment-respond .add-btn.contact-btn:hover{
     background:transparent;
-	color: #d5057f;
-    border:1px solid #d5057f;
+	color: #f75000;
+    border:1px solid #f75000;
     transition: 0.4s;
 }
 .blog-page-details .left-blog-page {
@@ -3100,7 +3100,7 @@ span.terms-text {
 
 .swiper-pagination-bullet-active {
   opacity: 1;
-  background: #d5057f !important;
+  background: #f75000 !important;
 }
 html {
   scroll-behavior: smooth;

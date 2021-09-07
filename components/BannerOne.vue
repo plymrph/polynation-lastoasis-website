@@ -1,7 +1,7 @@
 <template>
-  <div class="intro-area">
+  <div class="intro-area-2">
     <div class="bg-wrapper">
-      <img src="/img/background/slide-bg.png" alt="">
+      <img src="/img/background/slide2-bg.png" alt="">
     </div>
     <div class="intro-content">
       <div class="slider-content">

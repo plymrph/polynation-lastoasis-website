@@ -2,10 +2,10 @@
   <div>
     <NavOne />
     <BannerOne />
-    <Achivement />
+    <MilestoneTiles />
     <AboutArea />
-    <GamesArea />
-    <PaymentHistory />
+    <ClansArea />
+    <LeaderBoard />
     <WorkProcess />
     <OverviewArea />
     <BlogArea />
@@ -17,11 +17,11 @@
   import NavOne from "../components/NavOne";
   import Footer from "../components/Footer";
   import BannerOne from "../components/BannerOne";
-  import Achivement from "../components/Achivement";
+  import MilestoneTiles from "../components/MilestoneTiles";
   import AboutArea from "../components/AboutArea";
-  import GamesArea from "../components/GamesArea";
+  import ClansArea from "../components/ClansArea";
   import GamesPlayArea from "../components/GamesPlayArea";
-  import PaymentHistory from "../components/PaymentHistory";
+  import LeaderBoard from "../components/LeaderBoard";
   import WorkProcess from "../components/WorkProcess";
   import OverviewArea from "../components/OverviewArea";
   import BlogArea from "../components/BlogArea";
@@ -33,11 +33,11 @@
       BlogArea,
       OverviewArea,
       WorkProcess,
-      PaymentHistory,
+      LeaderBoard,
       GamesPlayArea,
-      GamesArea,
+      ClansArea,
       AboutArea,
-      Achivement,
+      MilestoneTiles,
       BannerOne,
       Footer,
       NavOne
