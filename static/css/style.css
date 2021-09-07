@@ -387,7 +387,7 @@ div#preloader {
     content: "";
     left: 16px;
     bottom: 34px;
-    border: 1px solid #d5057f;
+    border: 1px solid #f75000;
     width:0;
     transition: 0.4s;
     opacity: 0;
@@ -402,14 +402,14 @@ div#preloader {
     opacity: 1;
 }
 .main-menu ul.navbar-nav li a:hover{
-	color: #d5057f;
+	color: #f75000;
 }
 .main-menu ul.navbar-nav li.active a:focus {
     color: #fff;
 }
 .main-menu ul.navbar-nav li.active a {
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-    color: #d5057f;
+    color: #f75000;
     position: relative;
     z-index: 9999999;
 }
@@ -461,7 +461,7 @@ div#preloader {
     opacity:1;
     z-index:999;
     visibility:visible;
-    background: #26253f;
+    background: #332719;
 }
 .main-menu ul.nav li ul.sub-menu li a {
     color: #fff;
@@ -470,10 +470,10 @@ div#preloader {
     padding: 5px 20px;
 }
 .main-menu ul.nav li ul.sub-menu li a span{
-    color: #d5057f;
+    color: #f75000;
 }
 .main-menu ul.nav li:hover ul.sub-menu li a:hover{
-    color:#d5057f;
+    color:#f75000;
 }
 .header-right-link {
     float: right;
@@ -1199,7 +1199,7 @@ div#preloader {
 .admin-type i,
 .date-type i,
 .comments-type i{
-    color: #d5057f;
+    color: #f75000;
     margin-right: 5px;
 }
 .single-blog:hover .blog-content::after {
@@ -1249,7 +1249,7 @@ div#preloader {
     border-radius: 3px;
 }
 .blog-btn:hover{
-    color: #d5057f;
+    color: #f75000;
     background: transparent;
     transition: all 0.4s ease 0s;
 }
