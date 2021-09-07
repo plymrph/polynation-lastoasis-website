@@ -1407,7 +1407,7 @@ div#preloader {
 /*  14. Home 02 Css
 /*--------------------------------*/
 .intro-area-2{
-    background-color: #472101;
+    background-image: url(/img/background/slide2-bg.png);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1425,7 +1425,7 @@ div#preloader {
     background: rgba(30,29,50,0.90);
 }
 .intro-area-2 .bg-wrapper img {
-    opacity: 0.45;
+    opacity: 0;
 }
 .games-area-2 .single-games{
     margin-bottom: 30px;
